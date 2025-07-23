@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pedidos.Api", "Pedidos.Api\Pedidos.Api.csproj", "{00602F26-B34A-4ED7-9A7F-91A425FEBF6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00602F26-B34A-4ED7-9A7F-91A425FEBF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00602F26-B34A-4ED7-9A7F-91A425FEBF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00602F26-B34A-4ED7-9A7F-91A425FEBF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00602F26-B34A-4ED7-9A7F-91A425FEBF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
